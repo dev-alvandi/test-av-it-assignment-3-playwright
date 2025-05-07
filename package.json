@@ -1,0 +1,23 @@
+{
+  "name": "uppgift-3.0",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.15"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "undici-types": "^6.21.0"
+  },
+  "description": ""
+}

@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": ".AspNetCore.Antiforgery.RtGCWVXC8-4",
+      "value": "CfDJ8GsjdocfJfJAqOspuI_pYgSLxsiAxOHyWuWl5YL4e8a0-DGxZNxE5VqJLaUBvxwoszcF0NWdahOo23fW1BOIKGJxBXJiOwra-WCklfqd40BU8Yfk52xekqs41tKZFnEXhI1KzzdTavshfnb_bcRCttQ",
+      "domain": "ltu-i0015n-2024-web.azurewebsites.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "__auth_cookie",
+      "value": "CfDJ8GsjdocfJfJAqOspuI_pYgQBC4Cz6NtkZQTTU86z_9L9EorTUnKgIBd1Fxhlkyt6O6fqQ1Evo8ccFQlJxAmtX05b9tWPbj_gC-5Tkis_iaCtk2jZCAQUJf807KwxPxJu8jY73Qdht2CCD8yEDlVtzUk8vxa7iQo5kl-6-R29yJBN7a-oT-HLF1YA0emxoG6JYgFZm1RX3oglrqUjp6UtyqkSdOHAK8Racbn0FM9_7LRweMF0-o9PN3-ACiUvxkIBdRWrB-GD0FPCH5sA7INeIIYgFiro4nzAI6tNqeBuTPOd",
+      "domain": "ltu-i0015n-2024-web.azurewebsites.net",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
