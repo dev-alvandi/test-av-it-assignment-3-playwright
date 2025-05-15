@@ -34,8 +34,7 @@ test.describe('Image Search Tests', () => {
     });
 
     test('Search is case insensitive', async ({ page }) => {
-        const keyword = keywords[1]?.toUpperCase() ?? 'FLOWERS';
-
+        const keyword = keywords[1]?.toUpperCase() ?? 'Empire'.toUpperCase();
         await page.goto(BASE_URL);
         await page.fill('input[name="search_terms"]', keyword);
         await page.click('button[type="submit"]');
