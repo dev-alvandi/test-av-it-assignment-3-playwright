@@ -59,4 +59,15 @@ test.describe('Image Search Tests', () => {
 
         await expect(page.locator('input[name="search_terms"]')).toBeVisible();
     });
+
+    test('Search with only whitespace is rejected', async ({ page }) => {
+        await page.goto(BASE_URL);
+        await page.fill('input[name="search_terms"]', '   ');
+        await page.click('button[type="submit"]');
+
+        await expect(page.locator('#searchErrorMessage'))
+            .toBeVisible();
+        await expect(page.locator('#searchErrorMessage'))
+            .toHaveText('Search query is required.');
+    });
 });

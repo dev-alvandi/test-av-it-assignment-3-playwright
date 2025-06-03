@@ -2,7 +2,7 @@
   "cookies": [
     {
       "name": ".AspNetCore.Antiforgery.RtGCWVXC8-4",
-      "value": "CfDJ8M5U2g9XkpBAgVPmT_eQRAtSM3dRrJUW_n6OnVXLa3XH-mYdezPxc9FWCgGH16OQZWokcTm7eSSLpmGGOLQxdRpxhSkqVN8hVtUAx2sn1atPr09BnrcynVitRfryP7HMU1lQf0O0s_c4J8vvJAvJneA",
+      "value": "CfDJ8M5U2g9XkpBAgVPmT_eQRAuS20T4vAjMzNpbt71ijMK2xlLuoB_yAyEdWSSqV4GOZ8GgOLoJyJYDtou39AjMd-Jv5rOJFkVdY0kat_xrzK5n8Bnl1ctZkNlZQ1RrEaPTaWr8q_1aqe1nvSC55_kzfIA",
       "domain": "ltu-i0015n-2024-web.azurewebsites.net",
       "path": "/",
       "expires": -1,
@@ -12,7 +12,7 @@
     },
     {
       "name": "__auth_cookie",
-      "value": "CfDJ8M5U2g9XkpBAgVPmT_eQRAvTb29Y1WXda43vS8knqoTmww6ci_-BMzlI5ibVHGssTDeOYShMm6C7Ee4vQ3XevKxzP4ITAHwRU4c4JP8WXBr055PfINJ2SkEqynCdjVCIypDLwwYuRu4zlDx5QFHLXh8ZF4uGAYNTHdcgBi9_rq7JOr8oXiU2Q6-XCrhM5kw8BA6KbNXw1vinEWKICE-3_wVV2vu-LiTYOPOJp31kYvxX3oYwbqay35ShxfGnhhlPxj7pYIPVi_bidbg5iv94G577mF2SbISNhQ6xwfKXAvrc",
+      "value": "CfDJ8M5U2g9XkpBAgVPmT_eQRAu_Y7W0ofD-OvlX-Ypdm45zpZJ9xtDw23kCQ-C2IzR2BUHJ3M7GtF2_zU-ld4c94o-DskCurokQEpMFkD8MAJiEOdO38Q5wwTu9yif2tHXQvWFcHkblp0eGGVSI2RPLVh0NT7Xz9kWbPXjulLh8gtnKZapMEcpglsX62WxOfRdflxIj1wXOBEUpovqCo6wFM6ZCkA1l-O-SiHZaGMqA83Ca4arLvu-ZY48dinC69sq6b8BWgMH6Czks3OlX-JrUcQRQuUwCTQIXUGEsUA3u6L78",
       "domain": "ltu-i0015n-2024-web.azurewebsites.net",
       "path": "/",
       "expires": -1,
